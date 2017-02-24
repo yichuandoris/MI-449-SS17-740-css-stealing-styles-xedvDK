@@ -10,11 +10,7 @@ body {
 header {
   text-align: center;
   font-size: 80px;
-  display: block;
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-  -webkit-margin-start: 0;
-  -webkit-margin-end: 0;
+  margin: 1em auto;
 }
 
 .green:hover {
